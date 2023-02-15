@@ -7,7 +7,7 @@ import java.net.Socket;
  * @author gurong
  * @date $DATE
  */
-public class Main {
+public class Socket2Http {
     public static void main(String[] args) {
 
         try {
